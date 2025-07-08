@@ -33,5 +33,14 @@ But it's not perfect, so we often:
 * Or use copy constructors / custom deep-copy logic
 
 
+# ✅ Key Benefits of Prototype Pattern
+
+| Benefit                                 | Description                                     |
+| --------------------------------------- | ----------------------------------------------- |
+| ✅ Avoids repetitive object construction | Copy instead of building from scratch           |
+| ✅ Supports deep cloning                 | Can clone complex objects recursively           |
+| ✅ Flexible                              | Modifiable copies without touching the original |
+| ✅ Useful in graphics/game dev           | Copying assets, shapes, particles, etc.         |
+
 
 
